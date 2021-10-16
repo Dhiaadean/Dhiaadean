@@ -1,10 +1,4 @@
-- 👋
-- 📫 How to reach me dhiaa.mejdi@ieee.org Or dhiaa.mejdi@enis.tn
 
-<!---
-Dhiaadean/Dhiaadean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 👨🏻‍💻  About Me
 🤔    Hi, I’m @Dhiaadean
@@ -23,3 +17,9 @@ You can click the Preview link to take a look at your changes.
 ⚙️   Git GitHub 
 🔧   Visual Studio Visual Studio Code IntelliJ 
 🖥   Illustrator Photoshop Xd Figma Premier Pro After Effects
+
+
+<!---
+Dhiaadean/Dhiaadean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
